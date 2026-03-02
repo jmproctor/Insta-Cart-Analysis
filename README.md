@@ -97,4 +97,3 @@ https://youtu.be/fOJ4Lxh8rlY
 ## Author
 
 John Proctor
-SDC486L – Data Analytics
