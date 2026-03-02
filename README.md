@@ -1,6 +1,6 @@
 # Instacart Reorder Prediction & Market Basket Analysis
 
-> End-to-end machine learning and analytics project analyzing Instacart grocery data to predict product reorders, identify product associations, and evaluate timing effects on purchasing behavior.
+> An exploratory data analytics study that walks through a practical, end-to-end workflow on a InstaCart Market Basket dataset. It demonstrates how to prepare messy data with clear cleaning steps, compute useful statistical summaries to understand distributions and trends, and create visualizations that make patterns easy to interpret. The goal of this project was to find a solution to the PROBLEM STATEMENT through the exploration of these RESEARCH QUESTIONS or OBJECTIVES.
 
 ---
 
